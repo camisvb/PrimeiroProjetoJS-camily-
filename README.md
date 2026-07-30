@@ -18,3 +18,46 @@ O objetivo foi aprender:
 - criar documento utilizando Markdown
 
 ---
+## 🗂️ Estrutura
+
+```
+MeuPrimeiroProjetoJS
+|
+|-app.js
+|-informacoes.js
+|-operadores.js
+|-variavel.js
+|-readme.md
+|-imagem/
+
+```
+
+## Como executar
+
+```bash
+    node app.js
+```
+## Código
+
+```javascript
+    console.log("Ola, mundo");
+```
+## Resultado
+
+![imagem](./imagem/image.png)
+
+## Tecnologia
+- Node.js
+- Visual Studio Code
+- Markdown
+
+## O que aprendi
+- Criar arquivo JavaScript.
+- Executar programas.
+- Utilizar terminal
+- Criar README.
+- Instalar extensões
+- Utilizar Markdown
+- GIT
+- Variável
+- Operadores
